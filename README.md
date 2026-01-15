@@ -1,2 +1,4 @@
-# copilot
-This responsitory contains the starter file for the Copilot demo
+# Copilot
+
+## Objective
+Practice using some of the basic features of Copilot
